@@ -1,0 +1,17 @@
+{
+    "name": "gibocode/laravel-ui-components",
+    "description": "A package that contains HTML elements or objects that can be used in UI for Laravel.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Gilbor Camporazo Jr.",
+            "email": "gilborcamporazojr@programmer.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gibocode\\LaravelUiComponents\\": "/"
+        }
+    },
+    "minimum-stability": "stable"
+}
